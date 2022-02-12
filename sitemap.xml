@@ -166,7 +166,7 @@
 
   <url>
     <loc>https://jiangfan.online/</loc>
-    <lastmod>2022-02-06</lastmod>
+    <lastmod>2022-02-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -174,14 +174,14 @@
   
   <url>
     <loc>https://jiangfan.online/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2022-02-06</lastmod>
+    <lastmod>2022-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://jiangfan.online/tags/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</loc>
-    <lastmod>2022-02-06</lastmod>
+    <lastmod>2022-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -189,15 +189,15 @@
 
   
   <url>
-    <loc>https://jiangfan.online/categories/%E6%98%A5%E8%8A%82%E6%B8%B8%E8%AE%B0/</loc>
-    <lastmod>2022-02-06</lastmod>
+    <loc>https://jiangfan.online/categories/python/</loc>
+    <lastmod>2022-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://jiangfan.online/categories/python/</loc>
-    <lastmod>2022-02-06</lastmod>
+    <loc>https://jiangfan.online/categories/%E6%98%A5%E8%8A%82%E6%B8%B8%E8%AE%B0/</loc>
+    <lastmod>2022-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
