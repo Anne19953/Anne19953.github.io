@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>博客美化</title>
+      <link href="/2022/02/12/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96/"/>
+      <url>/2022/02/12/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>virtualenv</title>
       <link href="/2022/02/06/virtualenv/"/>
       <url>/2022/02/06/virtualenv/</url>
@@ -33,9 +46,27 @@
       <link href="/2022/02/04/JZ6/"/>
       <url>/2022/02/04/JZ6/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="6-从尾到头打印链表"><a href="#6-从尾到头打印链表" class="headerlink" title="6.从尾到头打印链表"></a>6.从尾到头打印链表</h1><h2 id="题目描述"><a href="#题目描述" class="headerlink" title="题目描述"></a>题目描述</h2><p>输入一个链表的头节点，按链表从尾到头的顺序返回每个节点的值（用数组返回）。<br>如输入{1,2,3}的链表<br>返回一个数组为[3,2,1]<br>0 &lt;= 链表长度 &lt;= 10000<br><strong>示例</strong></p><blockquote><p>输入：{1,2,3}<br>返回值：[3,2,1]</p></blockquote><h2 id="题目链接"><a href="#题目链接" class="headerlink" title="题目链接"></a>题目链接</h2><p><a href="https://www.nowcoder.com/practice/d0267f7f55b3412ba93bd35cfa8e8035?tpId=13&tqId=23278&ru=/practice/d0267f7f55b3412ba93bd35cfa8e8035&qru=/ta/coding-interviews/question-ranking">牛客网链接</a></p><h2 id="解题思路"><a href="#解题思路" class="headerlink" title="解题思路"></a>解题思路</h2><p>1.使用递归<br>想逆序打印1-&gt;2-&gt;3,先逆序打印2-&gt;3,再打印最后一个节点1。同样逆序打印2-&gt;3可以看作是一个新的链表，要逆序打印</p>]]></content>
       
       
+      <categories>
+          
+          <category> 剑指offer </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> c </tag>
+            
+            <tag> 数据结构 </tag>
+            
+            <tag> 算法基础 </tag>
+            
+            <tag> 链表 </tag>
+            
+        </tags>
       
     </entry>
     

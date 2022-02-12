@@ -6,7 +6,7 @@
   <link href="https://jiangfan.online/atom.xml" rel="self"/>
   
   <link href="https://jiangfan.online/"/>
-  <updated>2022-02-06T14:34:06.910Z</updated>
+  <updated>2022-02-12T04:08:30.409Z</updated>
   <id>https://jiangfan.online/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客美化</title>
+    <link href="https://jiangfan.online/2022/02/12/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96/"/>
+    <id>https://jiangfan.online/2022/02/12/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96/</id>
+    <published>2022-02-12T04:08:30.000Z</published>
+    <updated>2022-02-12T04:08:30.409Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>virtualenv</title>
@@ -45,11 +58,28 @@
     <link href="https://jiangfan.online/2022/02/04/JZ6/"/>
     <id>https://jiangfan.online/2022/02/04/JZ6/</id>
     <published>2022-02-04T15:23:50.000Z</published>
-    <updated>2022-02-04T15:23:50.861Z</updated>
+    <updated>2022-02-12T04:01:43.905Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="6-从尾到头打印链表"><a href="#6-从尾到头打印链表" class="headerlink" title="6.从尾到头打印链表"></a>6.从尾到头打印链表</h1><h2 id="题目描述"><a href="#题目描述" class="headerlink" title="题目描述"></a>题目描述</h2><p>输入一个链表的头节点，按链表从尾到头的顺序返回每个节点的值（用数组返回）。<br>如输入{1,2,3}的链表<br>返回一个数组为[3,2,1]<br>0 &lt;= 链表长度 &lt;= 10000<br><strong>示例</strong></p><blockquote><p>输入：{1,2,3}<br>返回值：[3,2,1]</p></blockquote><h2 id="题目链接"><a href="#题目链接" class="headerlink" title="题目链接"></a>题目链接</h2><p><a href="https://www.nowcoder.com/practice/d0267f7f55b3412ba93bd35cfa8e8035?tpId=13&tqId=23278&ru=/practice/d0267f7f55b3412ba93bd35cfa8e8035&qru=/ta/coding-interviews/question-ranking">牛客网链接</a></p><h2 id="解题思路"><a href="#解题思路" class="headerlink" title="解题思路"></a>解题思路</h2><p>1.使用递归<br>想逆序打印1-&gt;2-&gt;3,先逆序打印2-&gt;3,再打印最后一个节点1。同样逆序打印2-&gt;3可以看作是一个新的链表，要逆序打印</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;6-从尾到头打印链表&quot;&gt;&lt;a href=&quot;#6-从尾到头打印链表&quot; class=&quot;headerlink&quot; title=&quot;6.从尾到头打印链表&quot;&gt;&lt;/a&gt;6.从尾到头打印链表&lt;/h1&gt;&lt;h2 id=&quot;题目描述&quot;&gt;&lt;a href=&quot;#题目描述&quot; class=&quot;head</summary>
+      
     
     
     
+    <category term="剑指offer" scheme="https://jiangfan.online/categories/%E5%89%91%E6%8C%87offer/"/>
     
+    
+    <category term="c" scheme="https://jiangfan.online/tags/c/"/>
+    
+    <category term="数据结构" scheme="https://jiangfan.online/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    <category term="算法基础" scheme="https://jiangfan.online/tags/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/"/>
+    
+    <category term="链表" scheme="https://jiangfan.online/tags/%E9%93%BE%E8%A1%A8/"/>
     
   </entry>
   

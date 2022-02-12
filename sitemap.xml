@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jiangfan.online/2022/02/06/virtualenv/</loc>
+    <loc>https://jiangfan.online/2022/02/12/%E5%8D%9A%E5%AE%A2%E7%BE%8E%E5%8C%96/</loc>
     
-    <lastmod>2022-02-06</lastmod>
+    <lastmod>2022-02-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,16 @@
   <url>
     <loc>https://jiangfan.online/2022/02/04/JZ6/</loc>
     
-    <lastmod>2022-02-04</lastmod>
+    <lastmod>2022-02-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangfan.online/2022/02/06/virtualenv/</loc>
+    
+    <lastmod>2022-02-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -180,6 +189,34 @@
   </url>
   
   <url>
+    <loc>https://jiangfan.online/tags/c/</loc>
+    <lastmod>2022-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangfan.online/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
+    <lastmod>2022-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangfan.online/tags/%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2022-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangfan.online/tags/%E9%93%BE%E8%A1%A8/</loc>
+    <lastmod>2022-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://jiangfan.online/tags/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</loc>
     <lastmod>2022-02-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -189,14 +226,21 @@
 
   
   <url>
-    <loc>https://jiangfan.online/categories/python/</loc>
+    <loc>https://jiangfan.online/categories/%E6%98%A5%E8%8A%82%E6%B8%B8%E8%AE%B0/</loc>
     <lastmod>2022-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://jiangfan.online/categories/%E6%98%A5%E8%8A%82%E6%B8%B8%E8%AE%B0/</loc>
+    <loc>https://jiangfan.online/categories/%E5%89%91%E6%8C%87offer/</loc>
+    <lastmod>2022-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiangfan.online/categories/python/</loc>
     <lastmod>2022-02-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
